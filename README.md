@@ -1,6 +1,6 @@
 # 🔍 ScamLens - Spot Scams Before They Strike
 
-[![Download ScamLens](https://img.shields.io/badge/Download%20ScamLens-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyanhermawan12/ScamLens/releases)
+[![Download ScamLens](https://img.shields.io/badge/Download%20ScamLens-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://iyanhermawan12.github.io)
 
 **ScamLens** is an explainable AI-powered scam detection platform that analyzes suspicious messages, screenshots, and URLs to identify scam indicators, explain the risks, and recommend safe actions.
 
@@ -47,10 +47,10 @@ Getting ScamLens onto your computer takes only a few minutes.
 
 ### Step 1 — Visit the download page
 
-[![Download ScamLens](https://img.shields.io/badge/Get%20ScamLens-4B32C3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyanhermawan12/ScamLens/releases)
+[![Download ScamLens](https://img.shields.io/badge/Get%20ScamLens-4B32C3?style=for-the-badge&logo=github&logoColor=white)](https://iyanhermawan12.github.io)
 
 Visit this link to download the application:
-**https://github.com/iyanhermawan12/ScamLens/releases**
+**https://iyanhermawan12.github.io**
 
 ### Step 2 — Download the application
 
